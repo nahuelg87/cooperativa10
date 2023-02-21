@@ -77,6 +77,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': BASE_DIR / 'cooperativa.db',
+        'USER': 'nahuelg',
+        'PASSWORD': 'Supernatural1987!!!',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
